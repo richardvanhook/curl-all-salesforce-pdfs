@@ -27,6 +27,7 @@ curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/bi_dev_
 curl -LO https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/big_object_impl_guide.pdf
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/canvas_framework.pdf
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/case_feed_dev_guide.pdf
+curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/data_pipelines.pdf
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/datadotcom_api_dev_guide.pdf
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/draes.pdf
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/field_history_retention.pdf
