@@ -15,6 +15,7 @@ curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/api_met
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/api_rest.pdf
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/api_streaming.pdf
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/api_tooling.pdf
+curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/async_soql_guide.pdf
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/bi_admin_guide_data_integration_guide.pdf
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/bi_admin_guide_security.pdf
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/bi_admin_guide_setup.pdf
