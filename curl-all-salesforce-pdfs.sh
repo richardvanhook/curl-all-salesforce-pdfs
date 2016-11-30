@@ -42,6 +42,7 @@ curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/lightni
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/live_agent_dev_guide.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/live_agent_rest.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/object_reference.pdf
+curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/platform_events_beta.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/salesforce1_admin_guide.pdf
 curl -LO https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/salesforce1_api_guide.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/salesforce1_guide.pdf
