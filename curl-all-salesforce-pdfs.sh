@@ -1,8 +1,8 @@
 #!/bin/sh
 mkdir pdfs
 cd pdfs
-mkdir 206
-cd 206
+mkdir 208
+cd 208
 
 curl -LO https://developer.salesforce.com/resource/pdfs/Lightning_Components_Cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/146/latest/en-us/sfdc/pdf/salesforce_spring07_release_notes.pdf
@@ -30,6 +30,7 @@ curl -LO https://resources.docs.salesforce.com/188/latest/en-us/sfdc/pdf/salesfo
 curl -LO https://resources.docs.salesforce.com/190/latest/en-us/sfdc/pdf/salesforce_summer14_release_notes.pdf
 curl -LO https://resources.docs.salesforce.com/192/latest/en-us/sfdc/pdf/bi_dev_guide_eql.pdf
 curl -LO https://resources.docs.salesforce.com/192/latest/en-us/sfdc/pdf/salesforce_winter15_release_notes.pdf
+curl -LO https://resources.docs.salesforce.com/194/latest/en-us/sfdc/pdf/record_locking_cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/194/latest/en-us/sfdc/pdf/salesforce_appexchange_install_guide.pdf
 curl -LO https://resources.docs.salesforce.com/194/latest/en-us/sfdc/pdf/salesforce_jigsaw_clean_user_cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/194/latest/en-us/sfdc/pdf/salesforce_query_search_optimization_developer_cheatsheet.pdf
@@ -57,6 +58,8 @@ curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/salesfo
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/salesforce_workbench_cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/salesforce_communities_implementation.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/salesforce_winter17_release_notes.pdf
+curl -LO https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_spring17_release_notes.pdf
+curl -LO https://resources.docs.salesforce.com/208/latest/en-us/sfdc/pdf/salesforce_summer17_release_notes.pdf
 curl -LO https://resources.docs.salesforce.com/rel1/buddymedia/en-us/static/pdf/BuddyMediaAnalytics.pdf
 curl -LO https://resources.docs.salesforce.com/rel1/buddymedia/en-us/static/pdf/BuddyMediaChannelAdminGuide.pdf
 curl -LO https://resources.docs.salesforce.com/rel1/buddymedia/en-us/static/pdf/BuddyMediaConversationBuddy.pdf
@@ -129,6 +132,7 @@ curl -LO https://resources.docs.salesforce.com/sfdc/pdf/api_rest_industries.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/api_social.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/api_streaming.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/api_tooling.pdf
+curl -LO https://resources.docs.salesforce.com/sfdc/pdf/api_ui.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/appexchange_install_guide.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/appexchange_publishing_guide.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/apps.pdf
@@ -143,6 +147,8 @@ curl -LO https://resources.docs.salesforce.com/sfdc/pdf/bi_dev_guide_ext_data_fo
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/bi_dev_guide_json.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/bi_dev_guide_rest.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/bi_dev_guide_saql.pdf
+curl -LO https://resources.docs.salesforce.com/sfdc/pdf/bi_dev_guide_sdk.pdf
+curl -LO https://resources.docs.salesforce.com/sfdc/pdf/bi_dev_guide_wave_templates.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/bi_dev_guide_xmd.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/big_objects_guide.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/canvas_framework.pdf
@@ -162,6 +168,7 @@ curl -LO https://resources.docs.salesforce.com/sfdc/pdf/draes.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/eclipse.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/extend_click.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/extend_code.pdf
+curl -LO https://resources.docs.salesforce.com/sfdc/pdf/federated_search.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/field_history_retention.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/forcecom_workbook.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/forecasts.pdf
@@ -183,6 +190,7 @@ curl -LO https://resources.docs.salesforce.com/sfdc/pdf/object_reference.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/oem_user_license_comparison_tipsheet.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/organization_sync.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/pardot_get_start.pdf
+curl -LO https://resources.docs.salesforce.com/sfdc/pdf/platform_events.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/platform_events_beta.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/sales_admins.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/sales_users.pdf
@@ -245,7 +253,10 @@ curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_external_iden
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_field_names_reference.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_file_sync_impl_guide.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_files_connect_implementation.pdf
+curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_finserv_admin_guide.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_finserv_impl_guide.pdf
+curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_finserv_quick_start.pdf
+curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_finserv_upgrade_guide.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_flash_builder_quickstart.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_forecastFAQ_cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_forecastsetup_cheatsheet.pdf
