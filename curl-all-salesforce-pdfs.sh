@@ -136,6 +136,7 @@ curl -LO https://resources.docs.salesforce.com/198/latest/en-us/sfdc/pdf/apex_wo
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/api_action.pdf
 curl -LO https://resources.docs.salesforce.com/172/latest/en-us/sfdc/pdf/api_apex_rest.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/api_asynch.pdf
+curl -LO https://resources.docs.salesforce.com/sfdc/pdf/api_bulk_v2.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/api_console.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/api_cti.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/api_meta.pdf
