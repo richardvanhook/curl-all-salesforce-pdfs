@@ -1,8 +1,8 @@
 #!/bin/sh
 mkdir pdfs
 cd pdfs
-mkdir 210
-cd 210
+mkdir 214
+cd 214
 
 curl -LO https://developer.salesforce.com/resource/pdfs/Lightning_Components_Cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/142/latest/en-us/sfdc/pdf/salesforce_winter04_release_notes.pdf
@@ -72,6 +72,8 @@ curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/salesfo
 curl -LO https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_spring17_release_notes.pdf
 curl -LO https://resources.docs.salesforce.com/208/latest/en-us/sfdc/pdf/salesforce_summer17_release_notes.pdf
 curl -LO https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/salesforce_winter18_release_notes.pdf
+curl -LO https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_spring18_release_notes.pdf
+curl -LO https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/salesforce_summer18_release_notes.pdf
 curl -LO https://resources.docs.salesforce.com/rel1/buddymedia/en-us/static/pdf/BuddyMediaAnalytics.pdf
 curl -LO https://resources.docs.salesforce.com/rel1/buddymedia/en-us/static/pdf/BuddyMediaChannelAdminGuide.pdf
 curl -LO https://resources.docs.salesforce.com/rel1/buddymedia/en-us/static/pdf/BuddyMediaConversationBuddy.pdf
@@ -238,8 +240,8 @@ curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_answers_imple
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_apex_language_reference.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_app_limits_cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_assets_cheatsheet.pdf
-curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_axm_blackberry_cheatsheet.pdf
-curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_axm_user_guide_for_blackberry.pdf
+curl -LO https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_axm_blackberry_cheatsheet.pdf
+curl -LO https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_axm_user_guide_for_blackberry.pdf
 curl -LO https://resources.docs.salesforce.com/146/latest/en-us/sfdc/pdf/salesforce_axm_6.0_release_notes.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_B2C_implementation_guide.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_busprocess_cheatsheet.pdf
@@ -259,11 +261,11 @@ curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_content_deliv
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_content_implementation_guide.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_convertleads_cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_creating_on_demand_apps.pdf
-curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_cti_admin_cheatsheet.pdf
-curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_cti_demo_cheatsheet.pdf
+curl -LO https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_cti_admin_cheatsheet.pdf
+curl -LO https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_cti_demo_cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_cti_developer_guide.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_cti_developer_guide_2.pdf
-curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_cti_enduser_cheatsheet.pdf
+curl -LO https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_cti_enduser_cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_customer_portal_implementation_guide.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_dashboard_filters_cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_dashboard_samples.pdf
@@ -283,7 +285,7 @@ curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_entitlements_
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_exchange_sync_admin_implementation_guide.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_external_identity_implementation_guide.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_field_names_reference.pdf
-curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_field_service_lightning_managed_package.pdf
+curl -LO https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_field_service_lightning_managed_package.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_file_sync_impl_guide.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_files_connect_implementation.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_finserv_admin_guide.pdf
@@ -321,10 +323,10 @@ curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_mailmerge.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_mailmerge_upload_guidelines.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_massdelete_undoimport.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_migration_guide.pdf
-curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_mobile_implementation.pdf
+curl -LO https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_mobile_implementation.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_mobile_push_notifications_implementation.pdf
-curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_mobile_user_guide_android.pdf
-curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_mobile_user_guide_for_iphone.pdf
+curl -LO https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_mobile_user_guide_android.pdf
+curl -LO https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/salesforce_mobile_user_guide_for_iphone.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_office_edition_cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_office_release_notes.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_offline_cheatsheet.pdf
@@ -338,7 +340,7 @@ curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_placeorder_re
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_platform_encryption_implementation_guide.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_platform_encryption_tipsheet.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_platform_glossary.pdf
-curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_platform_mobile_services.pdf
+curl -LO https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/salesforce_platform_mobile_services.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_platform_portal_implementation_guide.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_portal_to_community_migration_cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_products_cheatsheet.pdf
@@ -394,7 +396,7 @@ curl -LO https://resources.docs.salesforce.com/sfdc/pdf/setup.pdf
 curl -LO https://resources.docs.salesforce.com/210/latest/en-us/sfdc/pdf/sf.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/sfdx_cli_reference.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/sfdx_dev.pdf
-curl -LO https://resources.docs.salesforce.com/sfdc/pdf/sfdx_ide2.pdf
+curl -LO https://resources.docs.salesforce.com/212/latest/en-us/sfdc/pdf/sfdx_ide2.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/sfdx_setup.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/sfo_getting_started_guide.pdf
 curl -LO https://resources.docs.salesforce.com/138/latest/en-us/sfdc/pdf/sforce_API.pdf
