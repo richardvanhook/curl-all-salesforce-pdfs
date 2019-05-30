@@ -392,8 +392,6 @@ curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_supportadmin_
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_supportrep_cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_TEadmin_cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_technical_requirements.pdf
-curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_territories_cheatsheet.pdf
-curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_territories_implementation_guide.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_TEuser_cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_useful_approval_processes.pdf
 curl -LO https://resources.docs.salesforce.com/sfdc/pdf/salesforce_useful_formula_fields.pdf
