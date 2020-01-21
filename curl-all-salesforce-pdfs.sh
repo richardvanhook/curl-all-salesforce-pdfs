@@ -1,8 +1,8 @@
 #!/bin/sh
 mkdir pdfs
 cd pdfs
-mkdir 220
-cd 220
+mkdir 224
+cd 224
 
 # release notes
 curl -LO https://resources.docs.salesforce.com/142/latest/en-us/sfdc/pdf/salesforce_winter04_release_notes.pdf
@@ -53,6 +53,8 @@ curl -LO https://resources.docs.salesforce.com/214/latest/en-us/sfdc/pdf/salesfo
 curl -LO https://resources.docs.salesforce.com/216/latest/en-us/sfdc/pdf/salesforce_winter19_release_notes.pdf
 curl -LO https://resources.docs.salesforce.com/218/latest/en-us/sfdc/pdf/salesforce_spring19_release_notes.pdf
 curl -LO https://resources.docs.salesforce.com/220/latest/en-us/sfdc/pdf/salesforce_summer19_release_notes.pdf
+curl -LO https://resources.docs.salesforce.com/222/latest/en-us/sfdc/pdf/salesforce_winter20_release_notes.pdf
+curl -LO https://resources.docs.salesforce.com/224/latest/en-us/sfdc/pdf/salesforce_spring20_release_notes.pdf
 
 # retired
 curl -LO https://developer.salesforce.com/resource/pdfs/Lightning_Components_Cheatsheet.pdf
