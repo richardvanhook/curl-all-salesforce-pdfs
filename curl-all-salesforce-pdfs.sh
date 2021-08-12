@@ -75,6 +75,7 @@ curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/salesfo
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/salesforce_lma_guide.pdf
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/salesforce_migration_guide.pdf
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/salesforce_mobile_push_notifications_implementation.pdf
+curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/salesforce_orders_cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/salesforce_packaging_guide.pdf
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/salesforce_pagelayouts_cheatsheet.pdf
 curl -LO https://resources.docs.salesforce.com/202/latest/en-us/sfdc/pdf/salesforce_pages_developers_guide.pdf
