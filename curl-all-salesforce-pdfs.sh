@@ -29,6 +29,7 @@ curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/bi_dev_
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/big_objects_guide.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/canvas_framework.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/case_feed_dev_guide.pdf
+curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/custom_metadata_types_impl_guide.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/data_pipelines.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/datadotcom_api_dev_guide.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/draes.pdf
