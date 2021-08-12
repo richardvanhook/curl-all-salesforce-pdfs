@@ -13,6 +13,7 @@ curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/api_con
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/api_cti.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/api_meta.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/api_rest.pdf
+curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/api_social.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/api_streaming.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/api_tooling.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/async_soql_guide.pdf
@@ -254,6 +255,7 @@ curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/sf.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/sfo_getting_started_guide.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/smb_sales_impl_guide.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/smb_sales_impl_guide_2.pdf
+curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/social_customer_service_impl_guide.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/state_country_picklists_impl_guide.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/support_admins.pdf
 curl -LO https://resources.docs.salesforce.com/204/latest/en-us/sfdc/pdf/support_agents.pdf
